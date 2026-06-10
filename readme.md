@@ -1,4 +1,6 @@
-# 2D Graphics Editor in C
+![image alt](https://github.com/mounish9742-byte/ACP_project/blob/0026d8163d4ad9398fe3bda255499c49fd38949b/Mounish.B%20Resume.png)
+
+ # 2D Graphics Editor in C
 
 ## Project Description
 
